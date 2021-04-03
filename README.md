@@ -1,0 +1,2 @@
+# Vines-Mag
+blog magazine
